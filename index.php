@@ -1,6 +1,6 @@
 <?php include "includes/db.php" ?>
 <?php include "includes/header.php" ?>
-<!-- Navigationnnn -->
+<!-- Navigation -->
 <?php include "includes/Navigation.php" ?>
 <!-- Page Content -->
 <div class="container">
