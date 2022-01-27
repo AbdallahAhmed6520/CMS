@@ -2,7 +2,7 @@
 
 <div id="wrapper">
 
-    <!-- Navigationnnn -->
+    <!-- Navigation -->
     <?php include 'includes/navigation.php'; ?>
 
     <div id="page-wrapper">
