@@ -1,3 +1,4 @@
+<?php include '../includes/db.php'?>
 <!-- hello from github -->
 <!DOCTYPE html>
 <html lang="en">
